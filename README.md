@@ -1,1 +1,5 @@
-# Micro_Technical-support
+
+简易的足球比赛记分小工具，操作简单，记分方便.
+
+如果您有任何问题，请联系技术支持邮箱: poip468@icloud.com。谢谢你的支持。
+
